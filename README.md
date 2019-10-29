@@ -1,4 +1,4 @@
-# G2 Ocean Demo
+# Accordion
 
 ## About this layout
 
